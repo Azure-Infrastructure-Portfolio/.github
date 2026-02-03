@@ -1,4 +1,4 @@
-## Azure Security Portfolio
+## Azure Cloud Infrastructure Portfolio
 
 Welcome to my portfolio of hands-on Azure Security labs, covering topics from identity management and secure VM access, to Defender for Cloud, Microsoft Sentinel, storage protection and automated policy enforcement.
 
@@ -19,31 +19,11 @@ Welcome to my portfolio of hands-on Azure Security labs, covering topics from id
 | [policy-blueprint-governance](https://github.com/Azure-Security-Portfolio/policy-blueprint-governance)              | Automate security and compliance using Azure Policy and Blueprints.                        |
 | [cost-security-governance](https://github.com/Azure-Security-Portfolio/cost-security-governance)                    | Monitor Azure costs and apply security recommendations for optimized cloud governance.     |
 
-* Click each repo name to view source code, documentation, diagrams and hands-on lab.
+---
+
+## Notes
+
 
 ---
 
-## Topics Covered
-
-- **Conditional Access MFA** – Enhance security with multi-factor authentication policies tailored to your organization's needs.
-- **RBAC JIT VM Access** – Implement Just-In-Time virtual machine access using Role-Based Access Control for improved security and operational efficiency.
-- **Azure Key Vault Secrets Management** - Protect sensitive credentials and secrets using Azure Key Vault, implementing strict access controls and automated secret rotation.
-- **Secure Azure VM with NSG & Bastion** - Harden VMs by segmenting traffic with Network Security Groups and using Azure Bastion for secure, internet-isolated remote access.
-- **Azure Firewall & Application Gateway** - Defend cloud networks and web apps with Azure Firewall and Application Gateway (including WAF), enabling advanced perimeter and L7 protection.
-- **Secure Azure Storage with RBAC and SAS Tokens** - Control data access using RBAC and temporary Shared Access Signatures and monitor storage activity for unauthorized access attempts.
-- **Storage Encryption & Soft Delete** - Safeguard data at rest with encryption and enable soft delete for accidental or malicious data recovery in Azure Storage.
-- **Azure Defender & Sentinel Threat Detection** - Activate Azure Defender (Defender for Cloud) and Microsoft Sentinel to detect, investigate, and remediate threats across cloud workloads using built-in and custom analytics, automated incident response playbooks and real-time dashboards.
-- **Azure Policy & Blueprints** - Enforce compliance, automate resource governance and ensure security best practices at scale with Azure Policy and Blueprints.
-- **Cost Management & Security Recommendations** - Analyze cloud spend and apply security recommendations to optimize resource allocation and minimize risk.
-
----
-
-## About Me
-
-Built and maintained by Sebastian Silva C. Passionate about automation, defense-in-depth and real-world hands-on learning. 
-CompTIA Security+, Network+, A+ and Azure AZ 900 certified.   
-*Contact me on [LinkedIn](https://www.linkedin.com/in/sebastiansilc) or [sebastian@playbookvisualarts.com](mailto:sebastian@playbookvisualarts.com)*
-
----
-
-Sebastian Silva C. - July, 2025 - Berlin, Germany
+Maintained by Sebastian Silva C. - Berlin, Germany
