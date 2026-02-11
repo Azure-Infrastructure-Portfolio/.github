@@ -1,6 +1,6 @@
-## Azure Infrastructure Portfolio
+## Azure Secure Infrastructure
 
-This repository contains hands-on Azure infrastructure and governance projects demonstrating how to design, deploy and operate secure and reliable Azure environments.
+This repository contains hands-on Azure secure infrastructure and governance projects demonstrating how to design, deploy and operate secure and reliable Azure environments.
 
 The projects focus on identity and access management, networking, monitoring, governance and automated policy enforcement, reflecting real-world Azure cloud operations.
 
